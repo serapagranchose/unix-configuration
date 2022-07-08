@@ -1,6 +1,6 @@
 # Unix configuration
 
-A set of shell script to install on Unix systems my developer working environnement
+A script that sets my configuration on unix systems
 
 ## Made:
 
