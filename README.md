@@ -1,6 +1,11 @@
-# Unix configuration
+<div align="center">
+  <a href="https://github.com/serapagranchose/unix-configuration">
+    <img src="assets/images/thumbnail.png" alt="thumbnail" width="750">
+  </a>
 
-A script that sets my configuration on unix systems
+  <h1>Unix configuration</h1>
+  <p>A script that sets my configuration on unix systems.</p>
+</div>
 
 ## Made:
 
